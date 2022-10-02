@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-My second commit
-=======
-My new readme
->>>>>>> newb
+My secomd commit
